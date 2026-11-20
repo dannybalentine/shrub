@@ -1,6 +1,6 @@
-<p align="center"><img src="shrub.png" alt="shrub logo" width="100"></p>
-
 # shrub
+
+<img src="assets/logo.png" alt="shrub logo" height="88">
  
 **shrub** is a best-effort DICOM de-identification tool implementing the
 **Basic Application Level Confidentiality Profile** defined in DICOM
